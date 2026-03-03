@@ -1,8 +1,12 @@
 # Coffee Shop Sales Analysis
 
 ### Project Overview
+---
 
 This project involved analysis of six months transactional data for a multi-location coffee retail chain. Raw sales logs was transformed into insights that identified growth patterns, optimizes staffing schedules, and evaluated product performance.
+
+
+<img width="1077" height="558" alt="Screenshot 2026-02-21 091627" src="https://github.com/user-attachments/assets/f953034d-b90f-4c89-ab58-f171c24503cd" />
 
 ### Data Source 
 
@@ -38,7 +42,7 @@ Analysis results are summarized as follows:
 1. A significant revenue growth of 104% was made in January to June.
 2. Friday, Thursday and Monday are the busiest days of the week.
 3. Operational peak hours were between 8:00 AM to 10:00 AM.
-4. Coffee and Barista Expresso are the top revenue generating menu.
+4. Coffee (Barista Expresso) are the top revenue generating menu.
 5. Hell’s Kitchen is the location with the highest performance, contributing mostly to the total revenue.
 
 
@@ -48,6 +52,7 @@ Based on the analysis we recommend the fololowing actions
 - Launch "Morning Specials" (Coffee + Bakery) to increase the average transaction value.
 - Implement "Zero Stockout" policy for Espresso and Chai Tea due to high turnover rates.
 - Replicate the Hell's Kitchen operational model across lower-performing stores.
+
 
 
 
