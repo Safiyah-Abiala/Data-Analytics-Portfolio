@@ -12,10 +12,13 @@ This project involved analysis of six months transactional data for a multi-loca
 
 Sales Data: The dataset used for this analysis is the "coffee_shop_sales_csv" file, containing detailed information about sales made by a company across locations.
 
+---
+
 ### Tools
 
 - Excel - Data Cleaning, Data Analysis, Data Visualization
 
+---
 
 ### Data Cleaning
 
@@ -23,6 +26,7 @@ In the initial data preparation phase, I performed the following tasks
 - Data loading and inspection.
 - Data cleaning and formatting
 
+---
 
 ### Exploratory Data Analysis
 1. How has sales trended over time?
@@ -31,10 +35,12 @@ In the initial data preparation phase, I performed the following tasks
 4. Which products are sold most and least often? Which drive the most revenue for the business?
 5. Most Performing location.
 
+---
 
 ### Data Analysis
 Utilized Advanced Pivot Tables and Time-Series Analysis to aggregate sales by hour, day, and month.
 
+---
 
 ### Results
 
@@ -45,6 +51,7 @@ Analysis results are summarized as follows:
 4. Coffee (Barista Expresso) are the top revenue generating menu.
 5. Hell’s Kitchen is the location with the highest performance, contributing mostly to the total revenue.
 
+---
 
 ### Recommendations
 Based on the analysis we recommend the fololowing actions
@@ -53,7 +60,10 @@ Based on the analysis we recommend the fololowing actions
 - Implement "Zero Stockout" policy for Espresso and Chai Tea due to high turnover rates.
 - Replicate the Hell's Kitchen operational model across lower-performing stores.
 
+---
 
+# 👩‍💻 Author
 
+**Ms_Safiyah**
 
 
